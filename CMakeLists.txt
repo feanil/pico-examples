@@ -15,7 +15,7 @@ pico_sdk_init()
 include(example_auto_set_url.cmake)
 # Add blink example
 add_subdirectory(blink)
-
+add_subdirectory(eclipsemob)
 # Add hello world example
 add_subdirectory(hello_world)
 
